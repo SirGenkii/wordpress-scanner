@@ -1,0 +1,3 @@
+# Ajouter une URL ou un domaine par ligne.
+# Exemple fictif à remplacer : https://entreprise.example/
+# Pour un soupçon portant sur une page précise, conserver son chemin complet.

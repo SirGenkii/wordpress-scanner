@@ -1,0 +1,3 @@
+# Ajouter les URL précises de pages sources contenant des liens externes.
+# Exemple fictif à remplacer : https://agence.example/references/
+# Le programme ne parcourt pas automatiquement tout le site de l'agence.
